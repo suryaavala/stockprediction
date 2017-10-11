@@ -55,14 +55,14 @@ A (more appropiate) recurrent neural network model. Details in the corresponding
 A pair of plots is worth many thousand words.
 
 -Price vs Prediction w/ Deep Regressor
-<img src="https://github.com/alberduris/SirajsCodingChallenges/blob/master/Stock%20Market%20Prediction/src/PriceVsPred_DeepRegressor.PNG?raw=true">
+<img src="https://github.com/suryaavala/stockprediction/blob/master/src/PriceVsPred_DeepRegressor.PNG">
 
 -Price vs Prediction w/ Recurrent Neural Network
-<img src="https://github.com/alberduris/SirajsCodingChallenges/blob/master/Stock%20Market%20Prediction/src/PriceVsPred_RNN.PNG?raw=true">
+<img src="https://github.com/suryaavala/stockprediction/blob/master/src/PriceVsPred_RNN.PNG">
 
 ### Bitcoin
 Price vs Prediction w/ RNN
-<img src="https://github.com/alberduris/SirajsCodingChallenges/blob/master/Stock%20Market%20Prediction/src/PriceVsPredict_BTCUSD_RNN.PNG?raw=true">
+<img src="https://github.com/suryaavala/stockprediction/blob/master/src/PriceVsPredict_BTCUSD_RNN.PNG">
 
 ### Ethereum
 Price vs Prediction w/ RNN
