@@ -8,7 +8,7 @@ Applying same model to Cryptocurrencies!
 
 ### Bitcoin
 Price vs Prediction w/ RNN
-<img src="">
+<img src="https://github.com/suryaavala/stockprediction/blob/master/src/PriceVsPredict_BTCUSD_RNN.PNG">
 
 ### Ethereum
 Price vs Prediction w/ RNN
